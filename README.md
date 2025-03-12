@@ -22,8 +22,8 @@ I’m a **backend developer** who thrives on building robust, scalable systems t
 ---
 
 ## Let’s Connect! 📬
-- **Email**: [Abdelrahmanhamdy01@aswu.edu.eg]
-- **LinkedIn**: [linkedin.com/in/abdelrahman-hamdyy](#)
+- **Email**: Abdelrahmanhamdy01@aswu.edu.eg
+- **LinkedIn**: linkedin.com/in/abdelrahmann-hamdyy(#)
 
 Got an idea, a bug to solve, or just want to chat about backend or Django? Hit me up—I’m always up for a coding adventure!
 
