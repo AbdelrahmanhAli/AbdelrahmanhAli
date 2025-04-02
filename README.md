@@ -14,7 +14,7 @@ I’m a **backend developer** who thrives on building robust, scalable systems t
 
 ## My Toolbox 🛠️
 - **Languages**: Python, JavaScript (sometimes), Bash
-- **Frameworks**: Django, DRF and GraphQL
+- **Frameworks**: Django, DRF ,FastApi and GraphQL
 - **DevOps**: Linux, Docker, Kubernetes,Ansible, AWS (EC2, S3, RDS), Azure,Terraform, GitHub Actions
 - **Databases**: PostgreSQL, MySQL, Redis
 - **Other Goodies**: Celery, Nginx, Gunicorn, RESTful design
