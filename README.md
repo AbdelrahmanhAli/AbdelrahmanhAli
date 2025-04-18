@@ -5,7 +5,7 @@ I’m a **backend developer** who thrives on building robust, scalable systems t
 ---
 
 ## What I Do 🚀
-- **Backend Magic**: I wield **FastAPI**,**Django** and **Django REST Framework (DRF)** to create secure, high-performance APIs that scale effortlessly. From authentication flows to database optimization, I’ve got it covered.
+- **Backend Magic**: I wield **FastAPI** , **Django** and **Django REST Framework (DRF)** to create secure, high-performance APIs that scale effortlessly. From authentication flows to database optimization, I’ve got it covered.
 - **DevOps Enthusiast**: I tame the chaos with **Docker**, **Kubernetes**, **AWS**, and **CI/CD pipelines** (think GitHub Actions, Jenkins). Deployments? Smooth as butter.
 - **Python professional**: Python is my weapon of choice—elegant, powerful, and perfect for everything from web apps to automation scripts.
 - **API Architect and System Scaler**: I design architectures that handle growth uisng different techniques and tools, whether it’s a startup MVP or a thousands-user platform.
