@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Abdelrahman Hamdy
 
-## 🚀 AI Automation Engineer | AI Agents | Workflow Automation | Backend & DevOps
+## 🚀 AI Automation Engineer | AI Agents | Workflow Automation | Backend development
 
 I’m an **AI Automation Engineer** focused on building intelligent systems, autonomous workflows, and scalable AI-powered automation solutions.
 
