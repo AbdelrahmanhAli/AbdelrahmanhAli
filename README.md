@@ -1,6 +1,6 @@
 # Hey there! 👋 I’m Abdelrahman Hamdy
 
-I’m a **backend developer** who thrives on building robust, scalable systems that power the digital world. With a love for clean code and a knack for solving complex problems, I specialize in crafting APIs and microservices that don’t just work—they *excel*.
+I’m a **AI Automation developer** who thrives on building robust, scalable AI systems that power the digital world. With a love for clean code and a knack for solving complex problems, I specialize in crafting APIs and microservices that don’t just work—they *excel*.
 
 ---
 
