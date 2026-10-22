@@ -52,14 +52,47 @@ pgvector, web and arXiv retrieval, and a FastAPI entry point.
   models, so a failure is reproducible without spending tokens.
 - **Docs that admit limits.** Every demo says what it does *not* solve.
 
-## Stack
+## Tools
 
-| Area | Tools |
-|---|---|
-| LLMs & agents | LangChain, LangGraph, OpenAI, Gemini, Ollama, Hugging Face, MCP |
-| Retrieval | Chroma, FAISS, pgvector, BM25, embeddings, cross-encoder re-ranking |
-| Backend | Python, FastAPI, Django/DRF, SQLAlchemy, PostgreSQL |
-| Infra | Docker, Kubernetes, AWS, GitHub Actions, pytest, ruff |
+The tools behind the repositories above:
+
+**LLMs & agents**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
+</p>
+
+**Retrieval**
+
+<p>
+  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square" alt="Chroma">
+  <img src="https://img.shields.io/badge/BM25-555555?style=flat-square" alt="BM25">
+  <img src="https://img.shields.io/badge/ColBERT-555555?style=flat-square" alt="ColBERT">
+  <img src="https://img.shields.io/badge/sentence--transformers-555555?style=flat-square" alt="sentence-transformers">
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" alt="SQLite">
+</p>
+
+**Infrastructure & testing**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square" alt="pytest">
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square" alt="Ruff">
+</p>
+
+<sub>Also worked with: Django/DRF, n8n, AWS, Kubernetes.</sub>
 
 ## Currently
 
