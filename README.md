@@ -1,95 +1,72 @@
-# Hey there! 👋 I'm Abdelrahman Hamdy
+<h1 align="center">Abdelrahman Hamdy</h1>
 
-## 🚀 AI Automation Engineer | AI Agents | Workflow Automation | Backend development
+<p align="center">
+  <b>AI Engineer</b> — agentic systems, retrieval, and the backend that makes them usable.
+</p>
 
-I’m an **AI Automation Engineer** focused on building intelligent systems, autonomous workflows, and scalable AI-powered automation solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahmann-hamdyy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Abdelrahmanhamdy01@aswu.edu.eg"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Aswan,_Egypt-333333?style=flat-square&logo=googlemaps&logoColor=white" alt="Aswan, Egypt">
+</p>
 
-I combine **AI agents**, **LLM systems**, **and backend engineering** to create automation pipelines that reduce manual work and transform complex processes into intelligent workflows.
-
-I enjoy building systems where AI doesn’t just respond — it **acts, integrates, automates, and scales**.
-
----
-
-# 💡 What I Do
-
-### 🤖 AI Automation & Agent Systems
-- Build AI-driven automation workflows using:
-  - LangGraph
-  - LangChain
-  - n8n
-  - MCP (Model Context Protocol)
-  - Multi-agent architectures
-- Create autonomous systems for:
-  - customer support
-  - workflow automation
-  - AI copilots
-  - developer tooling
-  - business process automation
+I build LLM systems where retrieval, the agent loop, and the API around them are
+engineered rather than demoed: explicit state, typed tool calls, tests that run
+without an API key, and READMEs that state the trade-offs.
 
 ---
 
-### 🧠 LLM & RAG Engineering
-- Build Retrieval-Augmented Generation (RAG) systems
-- Develop AI assistants and intelligent copilots
-- Work with:
-  - Gemini API
-  - OpenAI API
-  - Ollama
-  - Hugging Face Transformers
-  - Vector Databases
-  - Embeddings pipelines
+## Selected work
+
+### [RAG Techniques — 15 runnable repositories](https://github.com/AbdelrahmanhAli/rag-techniques-collection)
+
+A from-scratch tour of retrieval design: multi-query, RAG-Fusion, HyDE,
+step-back prompting, query decomposition, logical routing, structured queries,
+multi-representation indexing, RAPTOR-lite, ColBERT, cross-encoder re-ranking,
+extractive and contextual compression, and hybrid BM25 + dense search.
+
+Each repository is standalone — its own `core.py`, sample corpus, README, and
+**offline tests** that use deterministic fake embeddings, so the suite needs no
+key and no network. Start with
+[`rag-from-scratch`](https://github.com/AbdelrahmanhAli/rag-from-scratch).
+
+`Python` · `LangChain v1` · `Chroma` · `rank-bm25` · `RAGatouille` · `pytest` · `ruff`
+
+### [Multi-Agent Scientific Research System](https://github.com/AbdelrahmanhAli/muti-agent-Scientific-research-system)
+
+LangGraph supervisor and handoff workflows coordinating research, reviewer,
+writer, and coder agents over shared state. Includes RAG over Chroma, FAISS, and
+pgvector, web and arXiv retrieval, and a FastAPI entry point.
+
+`LangGraph` · `LangChain` · `FastAPI` · `pgvector`
 
 ---
 
-### ⚙️ Workflow Automation
-- Design end-to-end automation systems integrating:
-  - APIs
-  - AI models
-  - Databases
-  - Messaging platforms
-  - CRMs
-  - Cloud services
-- Build automation pipelines using:
-  - n8n
-  - Webhooks
-  - Custom orchestration logic
-  - 
----
+## How I build
 
-# 🛠️ Tech Stack
+- **Typed boundaries instead of prompt glue.** Pydantic schemas and `Literal`
+  routes in place of substring-matching model output.
+- **Retrieval is a design decision.** Chunking, fusion, and re-ranking are chosen
+  per corpus, and the cost is measured — not defaulted.
+- **Tests before trust.** Offline harnesses exercise the full path with fake
+  models, so a failure is reproducible without spending tokens.
+- **Docs that admit limits.** Every demo says what it does *not* solve.
 
-## AI & Automation
-- LangChain
-- LangGraph
-- n8n
-- MCP Servers
-- AI Agents
-- Multi-Agent Systems
-- Ollama
-- Hugging Face Transformers
-- Vector Databases
-- RAG Pipelines
+## Stack
 
----
+| Area | Tools |
+|---|---|
+| LLMs & agents | LangChain, LangGraph, OpenAI, Gemini, Ollama, Hugging Face, MCP |
+| Retrieval | Chroma, FAISS, pgvector, BM25, embeddings, cross-encoder re-ranking |
+| Backend | Python, FastAPI, Django/DRF, SQLAlchemy, PostgreSQL |
+| Infra | Docker, Kubernetes, AWS, GitHub Actions, pytest, ruff |
 
-# 🧠 Interests
+## Currently
 
-- AI Agents
-- Autonomous Systems
-- Workflow Automation
-- AI-Powered Developer Tools
-- MLOps
-- Intelligent Infrastructure
-- Human-AI Collaboration
-- Multi-Agent Orchestration
+Software engineer at **Alef for Software Development**, deepening retrieval
+evaluation and agent observability.
 
----
+## Contact
 
-# 📬 Connect With Me
-
-- 📧 Abdelrahmanhamdy01@aswu.edu.eg
-- 💼 linkedin.com/in/abdelrahmann-hamdyy
-
----
-
-> *“Great automation isn’t about replacing humans — it’s about amplifying what humans can build.”*
+Open to AI engineering roles — [LinkedIn](https://www.linkedin.com/in/abdelrahmann-hamdyy)
+or [Abdelrahmanhamdy01@aswu.edu.eg](mailto:Abdelrahmanhamdy01@aswu.edu.eg).
